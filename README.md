@@ -12,7 +12,7 @@ The code stems from one of the homework of the course *information retrieval*.
 - Running
   - ./pagerank -d -e -o
   - d: Dumping factor
-  - e: Comvergence threshold
+  - e: Convergence threshold
   - 0: Path of the output file
 
 ### Algorithm
