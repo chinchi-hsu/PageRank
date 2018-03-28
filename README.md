@@ -1,6 +1,8 @@
 # PageRank
 The implementation of the algorithm PageRank
 
+** 2018/03/28 update: I implemented a new Python 3 PageRank algorithm that is accelerated by Numpy, Scipy, Scikit-learn and Pandas. I think it as my fatest implementation in pure Python code. **
+
 ### Description
 
 The code stems from one of the homework of the course *information retrieval*.
